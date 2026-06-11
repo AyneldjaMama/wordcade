@@ -1,4 +1,4 @@
-# Cascade
+# Wordcade
 
 Tetris × Scrabble — letters fall, words clear, chains multiply.
 
